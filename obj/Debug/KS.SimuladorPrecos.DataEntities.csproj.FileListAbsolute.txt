@@ -1,0 +1,177 @@
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPreco\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPreco\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPreco\KS.SimuladorPrecos.DataEntities\bin\Debug\DatabaseAccessLib.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPreco\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPreco\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPreco\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPreco\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPreco\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.pdb
+D:\ProjetosKraft\Oncoprod\Simulador_Precos\branches\KSONCO.SIMULADORPRECOS\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.dll
+D:\ProjetosKraft\Oncoprod\Simulador_Precos\branches\KSONCO.SIMULADORPRECOS\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.pdb
+D:\ProjetosKraft\Oncoprod\Simulador_Precos\branches\KSONCO.SIMULADORPRECOS\KS.SimuladorPrecos.DataEntities\bin\Debug\DatabaseAccessLib.dll
+D:\ProjetosKraft\Oncoprod\Simulador_Precos\branches\KSONCO.SIMULADORPRECOS\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csprojResolveAssemblyReference.cache
+D:\ProjetosKraft\Oncoprod\Simulador_Precos\branches\KSONCO.SIMULADORPRECOS\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.dll
+D:\ProjetosKraft\Oncoprod\Simulador_Precos\branches\KSONCO.SIMULADORPRECOS\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPreco\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPreco\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPrecoCiro\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPrecoCiro\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPrecoCiro\KS.SimuladorPrecos.DataEntities\bin\Debug\DatabaseAccessLib.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPrecoCiro\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPrecoCiro\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPrecoCiro\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPrecoCiro\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPrecoCiro\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPrecoCiro\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPrecoCiro\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SimuladorPrecoCiro\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\DatabaseAccessLib.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR VERSÃO ONCO\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR VERSÃO ONCO\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR VERSÃO ONCO\KS.SimuladorPrecos.DataEntities\bin\Debug\DatabaseAccessLib.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR VERSÃO ONCO\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR VERSÃO ONCO\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR VERSÃO ONCO\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR VERSÃO ONCO\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR VERSÃO ONCO\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR VERSÃO ONCO\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR VERSÃO ONCO\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR VERSÃO ONCO\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR PRECO VERSAO 12\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR PRECO VERSAO 12\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR PRECO VERSAO 12\KS.SimuladorPrecos.DataEntities\bin\Debug\DatabaseAccessLib.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR PRECO VERSAO 12\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR PRECO VERSAO 12\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR PRECO VERSAO 12\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR PRECO VERSAO 12\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR PRECO VERSAO 12\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR PRECO VERSAO 12\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR PRECO VERSAO 12\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco\SIMULADOR PRECO VERSAO 12\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRAZA\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRAZA\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRAZA\KS.SimuladorPrecos.DataEntities\bin\Debug\DatabaseAccessLib.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRAZA\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRAZA\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRAZA\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRAZA\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRAZA\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRAZA\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRAZA\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRAZA\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRASA ULTIMA VERSÃO\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRASA ULTIMA VERSÃO\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRASA ULTIMA VERSÃO\KS.SimuladorPrecos.DataEntities\bin\Debug\DatabaseAccessLib.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRASA ULTIMA VERSÃO\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRASA ULTIMA VERSÃO\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRASA ULTIMA VERSÃO\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRASA ULTIMA VERSÃO\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRASA ULTIMA VERSÃO\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRASA ULTIMA VERSÃO\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRASA ULTIMA VERSÃO\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO SPINRASA ULTIMA VERSÃO\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO REGIME ESPECIAL\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO REGIME ESPECIAL\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO REGIME ESPECIAL\KS.SimuladorPrecos.DataEntities\bin\Debug\DatabaseAccessLib.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO REGIME ESPECIAL\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO REGIME ESPECIAL\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO REGIME ESPECIAL\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO REGIME ESPECIAL\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO REGIME ESPECIAL\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO REGIME ESPECIAL\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO REGIME ESPECIAL\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO REGIME ESPECIAL\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO VERSÃO FINAL\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO VERSÃO FINAL\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO VERSÃO FINAL\KS.SimuladorPrecos.DataEntities\bin\Debug\DatabaseAccessLib.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO VERSÃO FINAL\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO VERSÃO FINAL\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO VERSÃO FINAL\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO VERSÃO FINAL\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO VERSÃO FINAL\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO VERSÃO FINAL\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO VERSÃO FINAL\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO TRAVA\KONCO.SIMULADOR.TRAVA\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO TRAVA\KONCO.SIMULADOR.TRAVA\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO TRAVA\KONCO.SIMULADOR.TRAVA\KS.SimuladorPrecos.DataEntities\bin\Debug\DatabaseAccessLib.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO TRAVA\KONCO.SIMULADOR.TRAVA\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO TRAVA\KONCO.SIMULADOR.TRAVA\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO TRAVA\KONCO.SIMULADOR.TRAVA\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO TRAVA\KONCO.SIMULADOR.TRAVA\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO TRAVA\KONCO.SIMULADOR.TRAVA\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO TRAVA\KONCO.SIMULADOR.TRAVA\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR DE PRECO TRAVA\KONCO.SIMULADOR.TRAVA\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - REGRA FISCAL AJUSTE\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - REGRA FISCAL AJUSTE\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - REGRA FISCAL AJUSTE\KS.SimuladorPrecos.DataEntities\bin\Debug\DatabaseAccessLib.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - REGRA FISCAL AJUSTE\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - REGRA FISCAL AJUSTE\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - REGRA FISCAL AJUSTE\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - REGRA FISCAL AJUSTE\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - REGRA FISCAL AJUSTE\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - REGRA FISCAL AJUSTE\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - REGRA FISCAL AJUSTE\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - REGRAS PERNANBUCO\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - REGRAS PERNANBUCO\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - REGRAS PERNANBUCO\KS.SimuladorPrecos.DataEntities\bin\Debug\DatabaseAccessLib.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - REGRAS PERNANBUCO\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - REGRAS PERNANBUCO\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - REGRAS PERNANBUCO\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - REGRAS PERNANBUCO\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - REGRAS PERNANBUCO\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - REGRAS PERNANBUCO\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - REGRAS PERNANBUCO\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - VISÃO CLIENTE\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - VISÃO CLIENTE\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - VISÃO CLIENTE\KS.SimuladorPrecos.DataEntities\bin\Debug\DatabaseAccessLib.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - VISÃO CLIENTE\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - VISÃO CLIENTE\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - VISÃO CLIENTE\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - VISÃO CLIENTE\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - VISÃO CLIENTE\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - VISÃO CLIENTE\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - VISÃO CLIENTE\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO - VISÃO CLIENTE\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\DatabaseAccessLib.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\PortalVendaOnco_SIMULADOR\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\SIMULADOR DE PREÇO\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\SIMULADOR DE PREÇO\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\SIMULADOR DE PREÇO\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\DatabaseAccessLib.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\SIMULADOR DE PREÇO\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\SIMULADOR DE PREÇO\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\MARCELO\Documents\Projetos OncoProd\SIMULADOR DE PREÇO\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MARCELO\Documents\Projetos OncoProd\SIMULADOR DE PREÇO\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csprojAssemblyReference.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\SIMULADOR DE PREÇO\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\MARCELO\Documents\Projetos OncoProd\SIMULADOR DE PREÇO\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CopyComplete
+C:\Users\MARCELO\Documents\Projetos OncoProd\SIMULADOR DE PREÇO\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\MARCELO\Documents\Projetos OncoProd\SIMULADOR DE PREÇO\SIMULADOR PRECO\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\SIMULADOR DE PREÇO\VERSSAO_NOVA\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\SIMULADOR DE PREÇO\VERSSAO_NOVA\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\KS.SimuladorPrecos.DataEntities.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\SIMULADOR DE PREÇO\VERSSAO_NOVA\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\DatabaseAccessLib.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\SIMULADOR DE PREÇO\VERSSAO_NOVA\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\SIMULADOR DE PREÇO\VERSSAO_NOVA\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\SIMULADOR DE PREÇO\VERSSAO_NOVA\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\bin\Debug\Newtonsoft.Json.xml
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\SIMULADOR DE PREÇO\VERSSAO_NOVA\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.AssemblyReference.cache
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\SIMULADOR DE PREÇO\VERSSAO_NOVA\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\SIMULADOR DE PREÇO\VERSSAO_NOVA\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.csproj.CopyComplete
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\SIMULADOR DE PREÇO\VERSSAO_NOVA\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.dll
+C:\Users\redbu\OneDrive\Documentos\PROJETOS ONCOPROD\SIMULADOR DE PREÇO\VERSSAO_NOVA\KONCO.SIMULADOR\KS.SimuladorPrecos.DataEntities\obj\Debug\KS.SimuladorPrecos.DataEntities.pdb
